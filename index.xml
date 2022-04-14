@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>我的全新 Hugo 网站</title>
+    <title>Jam&#39;s Note</title>
     <link>http://example.org/</link>
-    <description>我的全新 Hugo 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 13 Apr 2022 22:37:42 &#43;0800</lastBuildDate>
+    <description>Jam&#39;s Note</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 14 Dec 2017 22:37:42 &#43;0800</lastBuildDate>
       <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-  <title>First_post</title>
-  <link>http://example.org/posts/first_post/</link>
-  <pubDate>Wed, 13 Apr 2022 22:37:42 &#43;0800</pubDate>
-  <author>作者</author>
-  <guid>http://example.org/posts/first_post/</guid>
-  <description><![CDATA[hello jam! ]]></description>
+  <title>用JS做一个简单的导航</title>
+  <link>http://example.org/posts/%E7%94%A8js%E5%81%9A%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%AF%BC%E8%88%AA/%E7%94%A8js%E5%81%9A%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%AF%BC%E8%88%AA/</link>
+  <pubDate>Thu, 14 Dec 2017 22:37:42 &#43;0800</pubDate>
+  <author>jam</author>
+  <guid>http://example.org/posts/%E7%94%A8js%E5%81%9A%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%AF%BC%E8%88%AA/%E7%94%A8js%E5%81%9A%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%AF%BC%E8%88%AA/</guid>
+  <description><![CDATA[预览： 要实现的功能 在用户按下键时在新窗口打开相应的网站 对应网站的logo显示在按键上 按键可以自定义，且可以保存（鼠标悬浮在键盘上出现编辑，点]]></description>
 </item></channel>
 </rss>
