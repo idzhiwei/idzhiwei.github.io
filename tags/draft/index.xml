@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>所有文章 - Jam&#39;s Note</title>
-    <link>http://example.org/posts/</link>
-    <description>所有文章 | Jam&#39;s Note</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 15 Apr 2022 02:00:37 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>draft - 标签 - Jam&#39;s Note</title>
+    <link>http://example.org/tags/draft/</link>
+    <description>draft - 标签 - Jam&#39;s Note</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 15 Apr 2022 02:00:37 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/draft/" rel="self" type="application/rss+xml" /><item>
   <title>分割线--部分历史笔记整理</title>
   <link>http://example.org/posts/%E9%83%A8%E5%88%86%E5%8E%86%E5%8F%B2%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%86/</link>
   <pubDate>Fri, 15 Apr 2022 02:00:37 &#43;0800</pubDate>
