@@ -3,7 +3,14 @@
     <title>draft - 分类 - Jam&#39;s Note</title>
     <link>http://example.org/categories/draft/</link>
     <description>draft - 分类 - Jam&#39;s Note</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 17 May 2022 22:54:26 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/draft/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 18 May 2022 22:41:43 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/draft/" rel="self" type="application/rss+xml" /><item>
+  <title>前端面试系列之HTTP</title>
+  <link>http://example.org/posts/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97-http%E9%9D%A2%E8%AF%95/</link>
+  <pubDate>Wed, 18 May 2022 22:41:43 &#43;0800</pubDate>
+  <author>Jam</author>
+  <guid>http://example.org/posts/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97-http%E9%9D%A2%E8%AF%95/</guid>
+  <description><![CDATA[]]></description>
+</item><item>
   <title>Mockjs教程</title>
   <link>http://example.org/posts/mockjs%E6%95%99%E7%A8%8B/</link>
   <pubDate>Tue, 17 May 2022 22:54:26 &#43;0800</pubDate>
@@ -65,13 +72,6 @@
   <pubDate>Mon, 15 Apr 2019 01:42:52 &#43;0800</pubDate>
   <author>jam</author>
   <guid>http://example.org/posts/%E6%A0%BC%E5%BC%8F%E5%8C%96%E6%97%B6%E9%97%B4/</guid>
-  <description><![CDATA[]]></description>
-</item><item>
-  <title>什么是BFC</title>
-  <link>http://example.org/posts/%E4%BB%80%E4%B9%88%E6%98%AFbfc/</link>
-  <pubDate>Mon, 15 Apr 2019 01:42:16 &#43;0800</pubDate>
-  <author>jam</author>
-  <guid>http://example.org/posts/%E4%BB%80%E4%B9%88%E6%98%AFbfc/</guid>
   <description><![CDATA[]]></description>
 </item></channel>
 </rss>
