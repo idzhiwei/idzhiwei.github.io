@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>hello - Category - Jam Blog</title>
+    <link>https://hugo-fixit.github.io/hugo-fixit-blog-go/categories/hello/</link>
+    <description>hello - Category - Jam Blog</description>
+    <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>jamis404@163.com (jam)</managingEditor>
+      <webMaster>jamis404@163.com (jam)</webMaster><lastBuildDate>Thu, 29 Sep 2022 17:06:11 &#43;0800</lastBuildDate><atom:link href="https://hugo-fixit.github.io/hugo-fixit-blog-go/categories/hello/" rel="self" type="application/rss+xml" /><item>
+  <title>Hello World</title>
+  <link>https://hugo-fixit.github.io/hugo-fixit-blog-go/posts/hello-world/</link>
+  <pubDate>Thu, 29 Sep 2022 17:06:11 &#43;0800</pubDate>
+  <author>jam</author>
+  <guid>https://hugo-fixit.github.io/hugo-fixit-blog-go/posts/hello-world/</guid>
+  <description><![CDATA[<p>Welcome to Hugo FixIt! This is your very first post.</p>]]></description>
+</item>
+</channel>
+</rss>

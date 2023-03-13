@@ -1,0 +1,1 @@
+https://hugo-fixit.github.io/hugo-fixit-blog-go/posts/hello-world/
